@@ -1,0 +1,411 @@
+body
+{
+background-color:black;
+}
+#header
+{
+    /*border: solid 1px black;*/
+    height: 200px;
+    margin: auto;
+    width: 1200px;
+    background-image: url(image/flag-2386956_960_720.png)
+}
+#Menu
+{
+    border: 1px solid black;
+    height: 50px;
+}
+#corps
+{
+    /* border: 1px solid black; */
+    height: 1000px;
+	background-color:#FFFBF0;
+}
+#footer
+{
+    /*border: solid 1px black;*/
+    height: 250px;
+    background-color:black;
+	width: 1200px;
+}
+#test
+{
+	font-family: 'Courier New', Courier, monospace;
+	font-size: xx-large;
+	text-align: center;
+}
+#haut
+{	 
+	height: 1700px;
+	width: 790px; 
+	margin: 14px; 
+}
+#gauche
+{
+	/*border: solid 1px black;*/
+	width: 1000px;
+	height: 900px;
+	margin: 10px;
+	background-color:#FFFFFF
+}
+h1
+{
+	font-size: xx-large;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color:blue;
+}
+h2
+{
+	text-align: center;
+	background-color: #A0A0A4;
+	font-weight: bold;
+	color: white;
+}
+h3
+{
+	font-size: xx-large;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color:blue;
+}
+#droite
+{
+	/*border: solid 1px black;*/
+	width: 400px;
+	height: 600px;
+	margin: 15px;
+	margin-left: 1155px;
+	margin-top: -527px;
+	background-color:beige;
+	font-family: 'Courier New', Courier, monospace;
+	font-size:x-large;
+	color: #000080;
+
+}
+a
+{
+	text-decoration: none;
+	/*font-size: x-large;
+	font-weight: bold;
+	font-family:'Times New Roman', Times, serif;
+	color: black;*/
+}
+ul
+{
+	text-decoration: none;
+
+}
+#gauch
+{
+	/*border: solid 1px black;*/
+	height: 395px;
+	width: 395px;
+	margin: 10px;
+	background-color: #FFFBF0
+
+}
+p
+{
+	font-size:16px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	padding-left: 10px;
+	padding-top: -15px;
+}
+#centre
+{
+	border: solid 2px blanchedalmond;
+	height: 400px;
+	width: 400px;
+	margin: 5px;
+	margin-left:430px;
+	margin-top: -415px;
+	background-color: #FFFBF0
+}
+#droit
+{
+	/*border: solid 1px black;*/
+	height:400px;
+	width: 330px;
+	margin: 15px;
+	margin-left:  850px;
+	margin-top: -420px;
+	background-color: #FFFBF0
+}
+ 
+img
+{
+	 
+	border: solid 2px blue;
+	border-radius: 5px 5px;	
+}
+#hot
+{
+ /*border: solid 1px black;*/
+ height:200px ;
+ width: 320px;
+ margin: 5px;
+ background-color: #A6CAF0;
+ 
+}
+#ba
+{
+	border: solid 0.5px black;
+    height:300px ;
+    width: 280px;
+	margin: 5px;
+	background-color:rgb(138, 148, 140)
+}
+.titre
+{
+	background-color: #000080;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: x-large;
+}
+.titre2
+{
+	background-color:#B90000;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: xx-large;
+	margin: 10px;
+	border-radius: 5px 5px;	
+}
+li a
+{
+	text-decoration: none;
+}
+ #note
+ {
+	 
+	margin-left: 130px;
+	width: 270px;
+	height: 350px;
+	margin-top: -320px;
+ }
+ #un
+ {
+	margin: 5px;
+	font-size: large;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ #Present
+ {
+	/*border: solid 1px black;*/
+	width: 600px;
+	height: 130px;
+	padding: 10px;
+	font-size: x-large;
+ }
+ #Passe
+ {
+	border: solid 1px red;
+	width: 550px;
+	height: 145px;
+	margin-left: 635px;
+	margin-top: -150px;
+ }
+ #titres
+ {
+	text-align: center;
+	background-color:#B90000;
+	font-family: Georgia, 'Times New Roman', Times, serif
+ }
+input
+{
+	size: 40px;
+	border-radius: 20px;
+	width: 200px;
+	border-color: #B90000;
+	 padding:2px;
+}
+button
+{
+	font-size: 20px;
+	text-align: center;
+	border-radius: 10px;
+	color:black;
+	background-color:#A6CAF0
+}
+.image1
+{
+	float: left;
+}
+.Pied
+{
+	display: inline-block;
+	width: 280px;
+	text-align: center;
+	color: white;
+}
+li
+{
+	padding: 10px;
+	text-decoration: none;
+}
+#copi
+{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: x-large;
+	text-align: center;
+	color: rgb(86, 95, 223);
+	margin-left: 280px;
+}
+.titre3
+{
+	border: solid 2px white;
+	background-color: #A6CAF0;
+	border-radius: 5px;
+	font-size: x-large;
+
+}
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #ffffff;
+
+/* for pull-down menu to work in IE6*/
+behavior:url("csshover2.htc");
+}
+/* pull-down mainmenu css */
+.mainmenu{
+	float: left;
+	width: 100%;
+	padding: 0;
+}
+.mainmenu ul {
+	float: left;
+	width: 100%;
+	list-style: none;
+	line-height: 1;
+	color:#000080;
+	background: #C0C0C0;
+	padding: 0;
+	border: solid #FFFBF0;
+	border-width: 1px 0;
+	margin: 0 0 1em 0;
+}
+
+.mainmenu a, .mainmenu a:visited {
+	display: block;
+font-family:Geneva, Arial, Helvetica, sans-serif;font-size:24px;font-weight:bold;font-style:oblique;text-decoration:overline;
+	color: #000080;
+	text-decoration: none;
+	padding: 1em 1em;
+}
+.mainmenu ul ul a{
+	width:100%;
+	height:100%;
+}
+.mainmenu ul a{
+	width:1%;
+}
+.mainmenu li  {
+	float: left;
+	margin:0;
+	padding:0;
+}
+.mainmenu ul li {float:left; position:relative;  }
+.mainmenu ul li a {white-space:nowrap;}	
+.mainmenu li ul {
+	position: absolute;
+	left: -999em;
+	height: auto;
+	width:15em;	
+	background: #FFFFFF;
+	font-weight: normal;
+	border-width: 1px;
+	margin: 0;
+}
+.mainmenu li li {
+	width:15em ;
+}
+.mainmenu li li a{
+	width:13em ;
+}
+
+.mainmenu li ul  {
+	margin: 0;
+}
+.mainmenu li ul ul {
+	margin: -2.8em 0 0 13.5em;
+}
+.ul_ch, 
+.mainmenu li:hover ul ul,
+.mainmenu li li:hover ul ul,
+.mainmenu li li li:hover ul ul,
+.mainmenu li li li li:hover ul ul,
+.mainmenu li li li li li:hover ul ul
+{
+	left: -999em;
+}
+.mainmenu li:hover ul,
+.mainmenu li li:hover ul,
+.mainmenu li li li:hover ul,
+.mainmenu li li li li:hover ul,
+.mainmenu li li li li li:hover ul
+{
+	left: auto;
+}
+.mainmenu li:hover>ul.ul_ch   
+{
+	left: auto;
+}
+
+.mainmenu li:hover{
+	background: #FFFBF0;
+}
+
+.mainmenu li:hover a,.mainmenu li:hover a:visited,.mainmenu li:hover a:hover,.mainmenu li a:hover{
+	color:#C0DCC0;
+}
+.mainmenu li:hover li a, .mainmenu li li:hover li a, 
+.mainmenu li li li:hover li a, .mainmenu li li li li:hover li a,
+.mainmenu li:hover li a:visited, .mainmenu li li:hover li a:visited, 
+.mainmenu li li li:hover li a:visited, .mainmenu li li li li:hover li a:visited
+{
+	color:#A6CAF0;
+}
+.mainmenu li li:hover, .mainmenu li li li:hover, 
+.mainmenu li li li li:hover , .mainmenu li li li li li:hover , .mainmenu li li li li li li:hover 
+{
+	background: #C0C0C0;
+	z-index:9999;
+}
+.mainmenu li li:hover a,.mainmenu li li li:hover a, 
+.mainmenu li li li li:hover a, .mainmenu li li li li li:hover a
+{
+	color: #FFFFFF; 
+}
+
+.mainmenu ul ul a, .mainmenu ul ul a:visited,
+.mainmenu li li a, .mainmenu li li a:visited
+{
+	color: #A6CAF0;
+}
+.mainmenu ul ul a:hover,
+.mainmenu li:hover li:hover a,.mainmenu li:hover li:hover a:visited ,
+.mainmenu li:hover li:hover li:hover a,.mainmenu li:hover li:hover li:hover a:visited,
+.mainmenu li:hover li:hover li:hover li:hover a,.mainmenu li:hover li:hover li:hover li:hover a:visited ,
+.mainmenu li:hover li:hover li:hover li:hover li:hover a,.mainmenu li:hover li:hover li:hover li:hover li:hover a:visited,
+.mainmenu li:hover li:hover li:hover li:hover li:hover li:hover a,.mainmenu li:hover li:hover li:hover li:hover li:hover li:hover a:visited{
+	color: #FFFFFF;
+}
+.mainmenu li:hover li:hover li a,.mainmenu li:hover li:hover li a:visited ,
+.mainmenu li:hover li:hover li:hover li a,.mainmenu li:hover li:hover li:hover li a:visited,
+.mainmenu li:hover li:hover li:hover li:hover li a,.mainmenu li:hover li:hover li:hover li:hover li a:visited,
+.mainmenu li:hover li:hover li:hover li:hover li:hover li a,.mainmenu li:hover li:hover li:hover li:hover li:hover li a:visited{
+	color: #A6CAF0;
+}
+
+
+/* end of mainmenu css */
+
+
+
+
+
+
